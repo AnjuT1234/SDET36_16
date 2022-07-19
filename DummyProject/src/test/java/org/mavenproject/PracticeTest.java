@@ -36,4 +36,9 @@ public class PracticeTest {
 		System.out.println("testing 4");
 	}
 
+	public void test10()
+	{
+		System.out.println("NEW");
+	}
+	
 }
