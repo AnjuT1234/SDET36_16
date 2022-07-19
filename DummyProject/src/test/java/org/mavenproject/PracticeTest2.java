@@ -21,10 +21,5 @@ public class PracticeTest2 {
 	{
 		System.out.println("testing 7");
 	}
-	@Test
-	public void test8()
-	{
-		System.out.println("testing 8");
-	}
 
 }
