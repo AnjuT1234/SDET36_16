@@ -38,7 +38,7 @@ public class PracticeTest {
 
 	public void test10()
 	{
-		System.out.println("NEW");
+		System.out.println("changes");
 	}
 	
 }
