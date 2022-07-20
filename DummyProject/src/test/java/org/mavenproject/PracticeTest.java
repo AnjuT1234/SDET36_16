@@ -8,8 +8,8 @@ public class PracticeTest {
 	public void test1()
 	{
 		System.out.println("testing 1");
-		String browser=System.getProperty("BROWSER");
-		String url=System.getProperty("URL");
+		String browser=System.getProperty("browser");
+		String url=System.getProperty("url");
 		String username=System.getProperty("USERNAME");
 		String password=System.getProperty("PASSWORD");
 		
